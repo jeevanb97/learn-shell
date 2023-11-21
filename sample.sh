@@ -1,3 +1,4 @@
 ls
 pwd
-procpu
+lscpu
+cat /proc/meminfo
